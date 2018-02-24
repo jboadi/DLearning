@@ -102,5 +102,5 @@ test_pred.to_csv('/Users/macadmin/Desktop/ML /Scripts/Datasets/SantanderCustSati
 # find best thresholds? 
 sns.regplot(x=fpr,y=tpr,fit_reg=False)
 
-
+#andigdnind naln lgin iang ag ndlg
 
